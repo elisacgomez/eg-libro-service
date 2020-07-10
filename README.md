@@ -1,2 +1,4 @@
 # eg-libro-service
-Proyecto personal eg(Elisa Gomez), API rest para obtener información de libros disponibles.
+Curso: Microservicios con SpringBoot+SpringCloud Netflix Eureka
+Autor: Andres Jose Guzman
+Fuente: Udemy
